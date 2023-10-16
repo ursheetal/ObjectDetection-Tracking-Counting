@@ -4,6 +4,9 @@ This project leverages YOLOv8, a state-of-the-art object detection model, to det
 Before running the project, make sure you have the following packages installed:
 
 Ultralytics
+
 cvzone
+
 OpenCV-Python
+
 I have used Thonny python IDE to do the project
